@@ -126,7 +126,8 @@ const Navbar = () => {
           onClick={closeMenu}
           className="text-2xl font-extrabold text-[var(--color-secondary)]"
         >
-          <Image src="/logo.png" alt="Logo Image" width={120} height={90} />
+          {/* <Image src="/logo.png" alt="Logo Image" width={120} height={90} /> */}
+          Learn
         </Link>
 
         {/* Desktop Menu - Unchanged */}
